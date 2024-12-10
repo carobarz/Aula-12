@@ -6,3 +6,8 @@ DESCRIPCIÓN DE LAS CLASES
 
 - Creamos un archivo "md" para explicar que es un algoritmo
 - Agregamos un archivo de instalación
+  
+# CLASE 3 - EXTENSIONES, GITHUB Y VISUAL STUDIO CODE
+
+- Vemos algunas extensiones en como cambiar el lenguaje y tabnine
+- Markdown
